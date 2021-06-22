@@ -1,0 +1,18 @@
+*{
+    scroll-behavior: smooth;
+}
+#feature{
+    background-color: rgb(81, 81, 206);
+}
+.img{
+  max-height: 200px;
+}
+#cart{
+  background-color:rgb(221, 203, 170);
+}
+.card-body{
+  background-color: rgb(180, 174, 174);
+}
+.carousell-inner{
+  min-width: 1200px;
+}
